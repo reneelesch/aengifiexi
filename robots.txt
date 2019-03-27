@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eecauxaigo.styleguides.io/sitemap.xml
